@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasCristini
 - 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Python and R but I am mainly a Master student in the biomedical field
+- 🌱 I have a MSc in the biomedical field. I learned to code in Python, R and Mathlab.
 - 💞️ I’m looking to collaborate on everykind of project that deserve my attenton. 
 - 📫  Write me on my personal mail (nicolas.cristini.nc@gmail.com) or on my Linkedin profile 😉
 
